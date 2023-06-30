@@ -1,9 +1,15 @@
 :root{
-    --cor-de-fundo: #FFF0F5;
+    --cor-de-fundo: #d1f3e1;
 }
 body{
     background-color: var(--cor-de-fundo);
 }
-h1{
-    background-color: #FFE4E1;
-}
+    .logo { 
+        width: 80%;
+        margin: 0px 30px 0px 30px;
+    }
+
+    .receita { font-size: 50%;}
+    .preparo {font-size: 50%;}
+    .in{font-size: 100%;}
+    .ft{}
